@@ -1,0 +1,22 @@
+<style>
+body {
+background-color: lightblue;
+}
+
+h1 {
+font-size: 50px;
+color: Green;
+text-align: center;
+}
+
+h2 {
+color: red;
+text-align: center;
+}
+
+p {
+font-family: verdana;
+font-size: 20px;
+color: purple;
+}
+</style>
